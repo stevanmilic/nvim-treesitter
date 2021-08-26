@@ -66,7 +66,7 @@
     "revision": "59e7e41e186d3759592e9938291f69055200783f"
   },
   "glimmer": {
-    "revision": "f06e31c945892e01fb45e791f16d70d86293a4de"
+    "revision": "3241521b21a824d164e2915eede08abc7a67f9ef"
   },
   "go": {
     "revision": "42b1e657c3a394c01df51dd3eadc8b214274a73c"
@@ -81,7 +81,7 @@
     "revision": "5e66e961eee421786bdda8495ed1db045e06b5fe"
   },
   "haskell": {
-    "revision": "30eea3c1339e573cda5dcffd8f9b06003ec31789"
+    "revision": "f219f42b7e0aae6df28b1d008d211178175a3c44"
   },
   "hcl": {
     "revision": "7a12dfe711c3d74e97ce01126cf4ccb4ebf60f07"
@@ -189,7 +189,7 @@
     "revision": "fcc5f6f4d194dede4e676834ff28a506e39e17b4"
   },
   "tlaplus": {
-    "revision": "63ab99903cce883e8db392888c526fe2ffd00b1a"
+    "revision": "6130577a46342c1f9dfb6f27f543313fce7bb091"
   },
   "toml": {
     "revision": "8bd2056818b21860e3d756b5a58c4f6e05fb744e"
@@ -207,7 +207,7 @@
     "revision": "8f6b1f357d1231c420404b5f7a368a73c25adfa2"
   },
   "vim": {
-    "revision": "78721f95c8302eeb31c0f8a64006e0aeafb9779c"
+    "revision": "4a361a3412ea9af87865a2f5239a39b1ad476833"
   },
   "vue": {
     "revision": "91fe2754796cd8fba5f229505a23fa08f3546c06"
